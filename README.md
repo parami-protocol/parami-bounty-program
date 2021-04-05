@@ -18,7 +18,7 @@ You should taking those:
 
 ## Bounty List
 
-
+- [ ] PBP1: [Connect Rococo Testnet](bounties/PBP1/PBP1.md)
 
 ## Rules
 
