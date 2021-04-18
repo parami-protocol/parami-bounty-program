@@ -8,7 +8,7 @@ The team aims to respond to any submissions as fast as possible. Feel free to [e
 
 ## What you Should Know
 
-You should taking those:
+You should take those:
 
 - [ ] have the equivalent of an undergraduate computer science education,
 - [ ] have intermediate-level experience in [Rust] programming language,
